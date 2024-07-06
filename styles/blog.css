@@ -1,0 +1,15 @@
+h3{
+    color: blue;
+    font-size: 30px;
+}
+.blog{
+    box-shadow: 10px 10px 10px blue;
+}
+.consectetur {
+    border: 2px solid red;
+} .header{
+    height: 200px;
+    background-image: url(pexels-freestockpro-1007901.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+}
